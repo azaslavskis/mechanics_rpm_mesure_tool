@@ -16,3 +16,8 @@ There are two softwares released. First is Arduino IDE code that is uploaded to 
 I used glue to make sure that my wires will be not left chat during an experiment:
 ![image](https://user-images.githubusercontent.com/20460747/205881930-d5dd1d3b-f1c6-4ead-b658-4e7744373b87.png)
 ![image](https://user-images.githubusercontent.com/20460747/205882200-4570e1fa-9939-4851-8068-ae269bbb37a9.png)
+# video demontsration:
+
+
+https://user-images.githubusercontent.com/20460747/206208067-81ce0058-ae66-4d7c-8080-60a095a5715f.mp4
+
